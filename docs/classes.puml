@@ -30,3 +30,4 @@ UsuarioController --> UsuarioService
 UsuarioService --> UsuarioRepository
 UsuarioService --> Usuario
 @enduml
+
